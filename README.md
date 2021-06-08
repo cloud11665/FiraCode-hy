@@ -1,6 +1,9 @@
 # FiraCode-hy
 Fork of the FiraCode font with added ligatures for the hy programming language
 
+## why?
+I liked the idea of the vim-hy plugin, but i dont use vim. So i made it editor-agnostic!
+
 ligature mapping:
 ```
 (fn     -> (λ
